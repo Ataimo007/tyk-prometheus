@@ -1,4 +1,4 @@
-# Tyk Pro Demo using Docker
+# Tyk Pro Demo using Docker with Prometheus
 
 This compose file is designed to provide a quick, simple demo of the Tyk stack, this includes Tyk Gateway, Tyk Dashboard, Tyk Portal, Mongo, & Redis.
 
